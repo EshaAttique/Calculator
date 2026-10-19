@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.calculator {
+    background-color: white;
+    width: 280px;
+    margin: 80px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 240px;
+    height: 35px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+button {
+    width: 50px;
+    height: 40px;
+    font-size: 18px;
+    margin: 2px;
+    cursor: pointer;
+}
